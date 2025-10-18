@@ -38,7 +38,7 @@ section {
 }
 
 .home:hover{
-	color:#37bdff;
+	color:#434242;
 }
 header {
 	position: absolute;
@@ -49,7 +49,7 @@ header {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	color: #F5DEB3;
+	color: #CCCCCC;
 	padding: 55px 125px 0;
 	text-shadow:
                 0 0 2px rgb(0, 0, 0),
@@ -75,7 +75,7 @@ header .nav li {
 }
 
 header .nav li:hover{
-	color:#37bdff;
+	color:#434242;
 }
 
 header .nav li:first-child {
@@ -169,7 +169,7 @@ header .nav li:last-child {
 	margin-left: 100px;
 	margin-right: 100px;
 	background-color: rgba(0, 0, 0, 0.300);
-	color: #F5DEB3;
+	color: #CCCCCC;
 	padding-left: 500px;
 	padding-right: 500px;
 	border-radius: 10px;
@@ -268,7 +268,7 @@ input:checked + label .description {
     background-image: url('../images/oneatthetop.png');
 }
 .card[for="c2"] {
-    background-image: url('../images/port.png');
+    background-image: url('../images/sas.png');
 }
 .card[for="c3"] {
     background-image: url('../images/Snow_high_fantasy_battleground_wasteland_aftermath_of_war_sunse_.png');
@@ -289,7 +289,7 @@ input:checked + label .description {
 .BulletListLeft {
 	text-align: left;
 	font-style: italic;
-	color: #F5DEB3;
+	color: #CCCCCC;
 	
 }
 
@@ -341,7 +341,7 @@ input:checked + label .description {
 	margin-left: 100px;
 	margin-right: 100px;
 	background-color: rgba(0, 0, 0, 0.400);
-	color: #F5DEB3;
+	color: #CCCCCC;
 	padding-left: 500px;
 	padding-right: 500px;
 	border-radius: 10px;

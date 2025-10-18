@@ -191,7 +191,7 @@ body {
 	width: 80px;
 }
 #body > .more:hover {
-	color: #4a8b92;
+	color: #242727;
 }
 #body h2 {
 	background: url(../images/bg-featured.png) repeat-x;
@@ -338,7 +338,7 @@ body {
 	text-decoration: none;
 }
 #body div .section .article > a:hover {
-	color: #97d0d3;
+	color: #3c3f3f;
 }
 #body div .section .newsletter {
 	height: 168px;
@@ -394,7 +394,7 @@ body {
 }
 #body div .section .newsletter form #email {
 	background-position: -399px -72px;
-	color: #68a7aa;
+	color: #434242;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	font-style: italic;
@@ -450,7 +450,7 @@ body {
 	text-decoration: none;
 }
 #body > .article ul li a:hover {
-	color: #252525;
+	color: #434242;
 }
 #body > .article h3 {
 	padding-bottom: 20px;
@@ -526,7 +526,7 @@ body {
 	text-decoration: none;
 }
 #body .sidebar ul li span a:hover {
-	color: #4c8f97;
+	color: #434242;
 }
 #body .sidebar ul li p {
 	color: #000;
@@ -540,7 +540,7 @@ body {
 	text-decoration: underline;
 }
 #body .sidebar ul li p a:hover {
-	color: #4c8f97;
+	color: #434242;
 }
 #footer {
 	background: #ff5100;
